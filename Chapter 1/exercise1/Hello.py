@@ -1,0 +1,1 @@
+print("Welcome to the first lesson of the semester!\nHello Student\nMy name is Rotem")
